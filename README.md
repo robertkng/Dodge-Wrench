@@ -38,7 +38,7 @@ JQuery was used to manipulate and functionalize the divs.
 
 
 Link to the landing page I recreated
-![:image](./Dodge Wrench/Landing page.png)
+![](Landing page.png)
 
 Link: http://www.bpp.com/bpp-university/about/schools/law
 
