@@ -1,5 +1,5 @@
 // When data is entered on the landing page form and the submit button is clicked
-//data will populate onto the game page
+//data will populate onto the game page.
 $(document).ready(function() {
   var firstName = $.urlParameter('Firstname');
   var lastName = $.urlParameter('Lastname');
